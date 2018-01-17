@@ -11,6 +11,6 @@
     "remote":      "github",
     "repository":  "DD3Boh/android_kernel_zuk_msm8996",
     "target_path": "kernel/zuk/msm8996",
-    "branch":      "Octopus"
+    "branch":      "lineage-15.1"
   }
 ]
